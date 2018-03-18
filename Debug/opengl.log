@@ -1,3 +1,6 @@
-﻿  main.cpp
-  opengl.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\opengl\Debug\opengl.exe
-  opengl.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\opengl\Debug\opengl.pdb (Partial PDB)
+﻿  3Warna.cpp
+  1Warna.cpp
+  Generating Code...
+3Warna.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in 1Warna.obj
+3Warna.obj : error LNK2005: _main already defined in 1Warna.obj
+c:\users\user\documents\visual studio 2017\Projects\opengl\Debug\opengl.exe : fatal error LNK1169: one or more multiply defined symbols found
