@@ -1,3 +1,10 @@
 ﻿  main.cpp
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\documents\visual studio 2017\projects\opengl\opengl\main.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   opengl.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\opengl\Debug\opengl.exe
   opengl.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\opengl\Debug\opengl.pdb (Partial PDB)
